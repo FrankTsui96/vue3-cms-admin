@@ -6,5 +6,4 @@ import Layout from "./components/Layout.vue";
   <Layout />
 </template>
 
-<style scoped lang="sass">
-</style>
+<style scoped lang="scss"></style>
